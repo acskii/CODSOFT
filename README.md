@@ -54,6 +54,20 @@ Perform the calculation and display the results
       Display the Password: Print the generated password on the screen.
 ```
 
+### How to setup?
+1. **Download entire folder onto your drive/desktop.**
+2. **Open Command Line**
+> [!TIP]
+> To open command line: search 'cmd', and hit Enter on first result.
+3. **Change directory to program folder**
+> [!NOTE]
+> To change directory, type 'cd (destionation)', where destination is the folder you just installed.
+4. **Type following command onto command line**
+```python passgen.py```
+5. **Program will run successfully!**
+
+![Screenshot of program running](./Password%20Generator/running.png)    
+
 *Features*:
 - **Password Length & Complexity Selection:** Users can customize the password length and complexity, including combinations of uppercase/lowercase letters, numbers, and symbols.
 - **Password Storage:** Generated passwords are stored in a local database for easy access later.
@@ -65,7 +79,7 @@ Perform the calculation and display the results
 - **Classes & Clean Code:** The program is structured with classes to keep the code clean, modular, and reusable.
 - **File Management:** Related classes are organized into folders, making the project easier to navigate and maintain.
 
-### Suggestions?
+## Suggestions?
 Feel free to hover around my code, and even provide feedback if you found time.
 
 Have a great day!
